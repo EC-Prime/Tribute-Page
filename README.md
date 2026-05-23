@@ -1,5 +1,3 @@
-# Tribute-Page
-A tribute page dedicated to Walter White, the fictional protagonist of Breaking Bad, built as part of the freeCodeCamp Responsive Web Design Certification.
 # Walter White Tribute Page
 
 A tribute page dedicated to Walter White, the fictional protagonist of *Breaking Bad* — built as part of the [freeCodeCamp Responsive Web Design Certification](https://www.freecodecamp.org/learn/2022/responsive-web-design/).
@@ -60,13 +58,5 @@ open index.html
 - Image scaling design
 - Improve mobile typography scaling
 - Add scroll-triggered animations for the timeline
-
----
-
-## 👤 Author
-
-**Emmanuel Chuma** — Junior Developer in progress | Based in South Africa | Open to remote opportunities
-
-GitHub-> https://github.com/EC-Prime
 
 ---
